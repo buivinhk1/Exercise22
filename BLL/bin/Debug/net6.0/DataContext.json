@@ -1,0 +1,51 @@
+{
+    "treeNodes": [{
+            "id": 1,
+            "desc": "Hutech"
+        },
+        {
+            "id": 2,
+            "desc": "UEF"
+        },
+        {
+            "id": 3,
+            "parentId": 1,
+            "desc": "Information Technology"
+        },
+        {
+            "id": 4,
+            "parentId": 3,
+            "desc": "Võ Hoàng Khang"
+        },
+        {
+            "id": 5,
+            "parentId": 4,
+            "desc": "E1-08.10"
+        },
+        {
+            "id": 6,
+            "parentId": 5,
+            "desc": "Bùi Đức Vinh"
+        },
+        {
+            "id": 7,
+            "parentId": 5,
+            "desc": "Đào Hồ Anh"
+        },
+        {
+            "id": 8,
+            "parentId": 2,
+            "desc": "Information Technology"
+        },
+        {
+            "id": 9,
+            "parentId": 3,
+            "desc": "Phan Tấn Trung"
+        },
+        {
+            "id": 10,
+            "parentId": 1,
+            "desc": "Marketing"
+        }
+    ]
+}
